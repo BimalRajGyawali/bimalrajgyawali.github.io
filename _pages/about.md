@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am currently working with [Dr. Konstantinos Kallas, Assistant Professor at UCLA](https://angelhof.github.io/programmable-software-systems-lab.html) on synthesizing tool code in declarative way for LLM agents to use.
+Hello! I am currently working with [Dr. Konstantinos Kallas](https://angelhof.github.io/programmable-software-systems-lab.html), Assistant Professor at UCLA on synthesizing tool code in declarative way for LLM agents to use.
 
-I completed my Bachelor of Engineering in Software Engineering from the [Pokhara University](https://pu.edu.np/).
+I completed my Bachelor of Engineering in Software Engineering from the Pokhara University.
 
 ---
 ## Research Interests
