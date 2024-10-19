@@ -26,4 +26,8 @@ I completed my Bachelor of Engineering in Software Engineering from the Pokhara 
 ## Research Interests
 I’m interested in the software engineering of LLM-integrated systems, focusing on Programming Languages, Distributed Systems and Cloud Infrastructure.
 
+
+[Please refer to my detailed CV here.](/cv)
+
+
 <br>
