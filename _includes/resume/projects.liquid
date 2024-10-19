@@ -21,7 +21,27 @@
           <ul class="items">
             {% for item in content.highlights %}
               <li>
-                <span class="item">{{ item }}</span>
+                <span class="item" style="display:block; padding-bottom:10px">{{ item }}</span>
+
+              </li>
+            {% endfor %}
+          </ul>
+          <ul>
+          {% for item in content.desc %}
+              <li>
+                <span class="item" style="display:block; padding-bottom:10px">{{ item.text }}</span>
+                <ol>
+                {% for p in item.points %}
+
+                  <li style="padding-bottom:10px">
+                    <span style="font-weight: 500">{{p.p_title}}</span>
+                    <span>{{p.p_text}}</span>
+                  </li>
+
+                {% endfor %}
+               </ol>
+
+
               </li>
             {% endfor %}
           </ul>

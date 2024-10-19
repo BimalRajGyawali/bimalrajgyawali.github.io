@@ -1,26 +1,7 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Bimal Raj Gyawali",
+    "email": "gyawali.rajbimal35@gmail.com"
   },
   "work": [
     {
@@ -189,12 +170,31 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Compass AI",
+      "summary": "Generative AI Agent for Automated Video Editing",
+      "desc": [
+        {
+          "text": "Created an AI system to automatically edit short videos.",
+          "points": []
+        },
+        {
+          "text": "Experimented two methods:",
+          "points": [
+            {
+              "p_title": "LLM Decision Making:",
+              "p_text": "Tried using a Large Language Model (LLM) to pick editing effects from a set, but this didn't work well since the effects needed to be limited."
+            },
+            {
+              "p_title": "Code Generation for Effects:",
+              "p_text": "Attempted to generate editing effects with the LLM using examples, but the results weren't as good as human editing."
+            }
+          ]
+        }
+      ],
+
+      "startDate": "2024-04",
+      "endDate": "2024-09",
+      "url": ""
     }
   ]
 }
