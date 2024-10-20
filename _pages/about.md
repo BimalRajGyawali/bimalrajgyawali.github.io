@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am currently working with [Prof. Konstantinos Kallas, UCLA](https://angelhof.github.io/programmable-software-systems-lab.html) on synthesizing tool code in declarative way for LLM agents to use.
+Hello! My name is Bimal. I am currently working with [Prof. Konstantinos Kallas, UCLA](https://angelhof.github.io/programmable-software-systems-lab.html) on synthesizing tool code in declarative way for LLM agents to use.
 
 I completed my Bachelor of Engineering in Software Engineering from the Pokhara University.
 
