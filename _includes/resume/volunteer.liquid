@@ -49,9 +49,14 @@
             <li>
                 <span class="item"><span style="font-weight: 500">Advisor:</span> <a href="{{ content.advisor_profile }}">{{ content.advisor }}</a></span>
               </li>
-            <li>
-                <span class="item" style="display: block; padding-top: 10px">{{ content.description }}</span>
+            {% for d in content.description %}
+
+              <li>
+                <span class="item" style="display: block; padding-top: 10px">{{ d }}</span>
               </li>
+
+            {%  endfor %}
+
           </ul>
         </div>
       </div>

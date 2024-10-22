@@ -7,7 +7,8 @@
       "endDate": "Present",
       "advisor": "Prof. Konstantinos Kallas",
       "advisor_profile": "https://angelhof.github.io/programmable-software-systems-lab.html",
-      "description": "Conducting research on synthesis of tool code for LLM agents"
+      "description": ["Working on the automatic synthesis of tool code for LLM agents",
+        "This project addresses the challenge of integrating various tools (like databases and APIs) that LLM agents require, and we aim to automate this process."]
     }
   ],
   "Projects": [
