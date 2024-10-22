@@ -24,7 +24,7 @@ I completed my Bachelor of Engineering in Software Engineering from the Pokhara 
 
 ---
 ## Research Interests
-I’m interested in enabling software engineers to create emergent software systems, including but not limited to LLM systems, focusing on program synthesis, developer tools, AI collaboration, and deployment methodologies.
+I’m interested in **enabling software engineers to develop emergent software systems**, including but not limited to LLM systems, focusing on program synthesis, developer tools, AI collaboration, and deployment methodologies.
 
 
 <br>
