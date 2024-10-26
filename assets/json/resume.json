@@ -8,7 +8,7 @@
       "advisor": "Prof. Konstantinos Kallas",
       "advisor_profile": "https://angelhof.github.io/programmable-software-systems-lab.html",
       "description": ["Working on the automatic synthesis of tool code for LLM agents",
-        "This project addresses the challenge of integrating various tools (like databases and APIs) that LLM agents require, and we aim to automate this process."]
+        "The project allows developers to specify code for integrating databases and APIs in natural language, making it easier to build LLM agents."]
     }
   ],
   "Projects": [
@@ -119,7 +119,7 @@
       "name": "Deployment",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Linux, Docker, AWS"
+        "Linux, Git, Docker, AWS"
       ]
     },
     {
@@ -144,85 +144,39 @@
       ]
     },
     {
-      "name": "AI and NLP",
+      "name": "AI/ML",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "LLM, Vector Databases, Q/A Systems, Agents"
+        "NLP, Neural Networks, LLM, Vector Databases, Q/A Systems, Agents"
       ]
     }
   ],
   "University Courses": [
   {
-    "name": "Programming in C",
-    "icon": "fa-solid fa-tag"
+    "name": "Programming Systems",
+    "icon": "fa-solid fa-tag",
+    "keywords": [
+      "Principles of Programming Languages",
+      "Programming in C/C++/Java",
+      "Data Structure and Algorithms",
+      "Analysis and Design of Algorithms",
+      "System Programming",
+      "Mathematical Foundation of Computer Science"
+    ]
   },
   {
-    "name": "Software Engineering Fundamentals",
-    "icon": "fa-solid fa-tag"
+    "name": "Machine Learning",
+    "icon": "fa-solid fa-tag",
+    "keywords": ["Probability and Queuing Theory",
+      "Artificial Intelligence and Neural Network",
+      "Engineering Mathematics",
+      "Numerical Methods"
+    ]
   },
   {
-    "name": "Data Structure and Algorithms",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Programming in Java",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Principles of Programming Languages",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Object Oriented Software Development",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Applied Operating Systems",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Computer Networks",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "System Programming",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Analysis and Design of Algorithms",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Object Oriented Programming C++",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Web Technology",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Database Management Systems",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Object Oriented Design and Modeling through UML",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Distributed Systems",
-    "icon": "fa-solid fa-tag"
-  },
-  {
-    "name": "Real Time Systems",
-    "icon": "fa-solid fa-tag"
-  },
-    {
-    "name": "Artificial Intelligence and Neural Network",
-    "icon": "fa-solid fa-tag"
-  },
-    {
-    "name": "Probability and Queuing Theory",
-    "icon": "fa-solid fa-tag"
+    "name": "Software Engineering",
+    "icon": "fa-solid fa-tag",
+    "keywords": ["Object Oriented Design and Modeling through UML", "Applied Operating Systems", "Sofware Testing, Verification, Validation and Quality", "Database Management Systems", "Real Time Systems", "Web Technology"]
   }
 ]
 
