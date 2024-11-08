@@ -24,10 +24,9 @@ I completed my Bachelor of Engineering in Software Engineering from the Pokhara 
 
 ---
 ## Research Interests
-My research interest lies at the intersection of **program synthesis** and **machine learning**, particularly **large language models (LLMs)**. 
 
-I aim to develop systems that can automatically generate programs from **natural language descriptions** or examples, ensuring **correctness guarantees** in the generated code.
-
+I wish to develop systems that can automatically generate programs from natural language descriptions or examples, ensuring **correctness guarantees** in the generated code.
+I want my research to go beyond theoretical contributions and produce tools that both developers and non-developers can use to achieve their goals. To achieve this, I am planning to draw techniques, methodology, and tools from the fields of **PL**, **SE**, **ML**, **HCI**. 
 
 <br>
 Please refer to my detailed [CV here](/cv).
