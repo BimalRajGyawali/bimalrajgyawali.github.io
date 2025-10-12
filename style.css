@@ -1,0 +1,72 @@
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 20px;
+  color: #333;
+  padding: 0 10px;
+  background: #fff;
+}
+
+
+
+h1, h2, h3 {
+  line-height: 1.2;
+  margin-top: 1.4em;
+}
+
+/**
+** header
+*/
+
+.header h1 {
+  margin: 0.2em 0;
+  font-size: 2em;
+}
+
+.header .title {
+  font-size: 1em;
+  color: #555;
+}
+
+.header .contact {
+  font-size: 0.95em;
+  color: #666;
+  line-height: 1.5;
+}
+
+
+/**/
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  margin: 2em 0;
+}
+
+ul.news {
+  list-style: none;
+  padding: 0;
+}
+
+ul.news li {
+  margin-bottom: 0.5em;
+}
+
+code {
+  background: #f3f3f3;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+.footer {
+  font-size: 0.9em;
+  color: #777;
+  margin-top: 2em;
+}
